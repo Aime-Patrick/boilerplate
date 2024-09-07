@@ -8,7 +8,7 @@ Welcome to the MERN GraphQL Expense Tracker App! This project is designed to hel
 ## Features:
 
 -   🌟 Tech stack: MERN (MongoDB, Express.js, React.js, Node.js) + Apollo GraphQL
--   📝 Learn type definitions and resolvers for defining GraphQL schema and data fetching logic
+-   📝 Type definitions and resolvers for defining GraphQL schema and data fetching logic
 -   🔄 Mutations for modifying data in the GraphQL API and establishing graph relations
 -   🎃 Authentication with Passport.js and MongoDB session store
 -   🚀 Global state management with Apollo Client
